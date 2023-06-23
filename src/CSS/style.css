@@ -1,0 +1,68 @@
+body {
+    color: #333; 
+    background-color: #4e4c4c;
+}
+
+#income {
+    margin-left: 40%;
+    text-align: center;
+}
+#addincome {
+    text-align: center;
+}
+#addexpense {
+    text-align: center;
+}
+#addincome{
+    margin-left: 40px;
+}
+.wrapper__main {
+    text-align: center;
+}
+.wrapper__section {
+    align-items: center;
+    margin: auto;
+}
+
+.wrapper__addbtn {
+    color: rgb(70, 187, 54);
+}
+
+.wrapper__show {
+    border: solid 1px #ccc;
+    
+    border-radius: 5px;
+}
+
+.wrapper__table{
+    margin:auto;
+}
+.wrapper {
+
+    margin: 10px auto 100px;
+    /* background-color: #dee6e5; */
+    background-color: #f7efef;
+    padding: 0px 10px 10px 10px;
+    border-radius: 10px
+}
+.wrapper__btn {
+    padding: 15px;
+    background-color: rgb(13, 224, 214);
+    color: rgb(235, 95, 95);
+    border-color: rgb(233, 241, 236);
+    border-radius: 50%;
+    margin: 5px 0px 5px 0px;
+    font-size: 1rem;
+    text-align: center;
+}
+th, td{
+    padding-right: 30px;
+}
+#category{
+    margin-left: 35%;
+    text-align: center;
+}
+#total{
+    margin-left: 2%;
+    text-align: center;     
+}
